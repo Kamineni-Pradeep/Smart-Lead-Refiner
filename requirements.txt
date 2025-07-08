@@ -1,0 +1,5 @@
+# requirements.txt
+# List required Python packages here 
+streamlit
+pandas
+dnspython
