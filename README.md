@@ -30,7 +30,7 @@ Example:
 ```csv
 John Doe,CEO,john@example.com,TechNova,technova.com,https://linkedin.com/in/johndoe
 Jane Smith,Engineer,jane@example.com,CloudBright,cloudbright.ai,https://linkedin.com/in/janesmith
-
+```
  Tech Stack
 Frontend: Streamlit
 
